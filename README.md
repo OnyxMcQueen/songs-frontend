@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Welcome to the Tuner App! 🎶
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The website is a user-friendly platform designed to cater to music enthusiasts by offering them the ability to curate and manage their favorite songs effortlessly. Powered by React and a custom-made server using Express, the website allows users to store their beloved songs along with essential information, including album covers and other specific details. With a seamless and intuitive interface, users can easily add, edit, and delete their song selections, tailoring their personal music collection to perfection. The integration with a Postgres database ensures data security and reliability, providing users with a seamless and enjoyable experience as they indulge in their passion for music. Whether it's organizing cherished tracks or discovering new favorites, this website stands as an ideal destination for music aficionados to embrace and celebrate their love for music.
+
+*Link to website coming soon!*
+
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -67,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
